@@ -1,2 +1,1 @@
 # arch
-arch config
